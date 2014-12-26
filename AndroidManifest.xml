@@ -14,7 +14,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainActivity"
+            android:name="edu.cuhk.cmsc.kindergarten.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,6 +22,24 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.NewsActivity"/>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.AboutUsActivity"/>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.LocationActivity"/>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.CalendarActivity"/>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.GalleryActivity"/>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.ParentAreaActivity"/>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.PlacementInfoActivity"/>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.SchoolBusActivity"/>
+        <activity 
+            android:name="edu.cuhk.cmsc.kindergarten.ContactActivity"/>
     </application>
 
 </manifest>

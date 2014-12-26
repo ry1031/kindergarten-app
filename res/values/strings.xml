@@ -3,5 +3,14 @@
 
     <string name="app_name">幼稚園</string>
     <string name="hello_world">Hello world!</string>
+    <string name="news">最新訊息</string>
+    <string name="about_us">學校資料</string>
+    <string name="location">校園地點</string>
+    <string name="calendar">行事曆</string>
+    <string name="gallery">相片簿</string>
+    <string name="parent_area">家長園地</string>
+    <string name="placement_info">小一入學資料</string>
+    <string name="school_bus">校巴資訊</string>
+    <string name="contact">聯絡我們</string>
 
 </resources>
