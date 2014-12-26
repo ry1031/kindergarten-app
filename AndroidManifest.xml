@@ -15,7 +15,8 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="edu.cuhk.cmsc.kindergarten.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -23,23 +24,32 @@
             </intent-filter>
         </activity>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.NewsActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.NewsActivity"
+            android:screenOrientation="portrait"/>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.AboutUsActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.AboutUsActivity"
+            android:screenOrientation="portrait"/>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.LocationActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.LocationActivity"
+            android:screenOrientation="portrait"/>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.CalendarActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.CalendarActivity"
+            android:screenOrientation="portrait"/>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.GalleryActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.GalleryActivity"
+            android:screenOrientation="portrait"/>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.ParentAreaActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.ParentAreaActivity"
+            android:screenOrientation="portrait"/>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.PlacementInfoActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.PlacementInfoActivity"
+            android:screenOrientation="portrait"/>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.SchoolBusActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.SchoolBusActivity"
+            android:screenOrientation="portrait"/>
         <activity 
-            android:name="edu.cuhk.cmsc.kindergarten.ContactActivity"/>
+            android:name="edu.cuhk.cmsc.kindergarten.ContactActivity"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>
