@@ -16,9 +16,13 @@
         android:textSize="28sp" />
 
     <TextView
+        android:id="@+id/about_school"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:layout_weight=".9"
-        android:text="@string/hello_world" />
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:gravity="left"
+        android:scrollbars="vertical"/>
 
 </LinearLayout>
