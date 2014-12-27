@@ -12,5 +12,7 @@
     <string name="placement_info">小一入學資料</string>
     <string name="school_bus">校巴資訊</string>
     <string name="contact">聯絡我們</string>
+    <string name="school_location">22.370413,114.115071</string>
+    <string name="school_address">地址：新界荃灣大屋街二至四號地下\r\n\r\n交通1：荃灣地鐵站A出口，步行約10分鐘\r\n\r\n交通2：荃灣西地鐵站D出口，步行約15分鐘</string>
 
 </resources>
