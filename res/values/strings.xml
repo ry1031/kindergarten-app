@@ -22,5 +22,20 @@
     <string name="username">使用者名稱</string>
     <string name="password">密碼</string>
     <string name="login">登入</string>
+    <string name="discovery_park">愉景新城</string>
+    <string name="discovery_park_location">22.3749816,114.1124443</string>
+    <string name="allway_gartens">荃威花園</string>
+    <string name="allway_gartens_location">22.377326,114.104054</string>
+    <string name="belvedere_garden">麗城花園</string>
+    <string name="belvedere_garden_location">22.373133,114.102877</string>
+    <string name="tsuen_tak_gardens">荃德花園</string>
+    <string name="tsuen_tak_gardens_location">22.376586,114.106684</string>
+    <string name="school_bus_view_location">22.373688,114.109885</string>
+    <string name="estimated_arrival_time">預計到逹時間：10分鐘</string>
+    <string name="bus_location_1">22.371675,114.112583</string>
+    <string name="bus_location_2">22.374814,114.111651</string>
+    <string name="bus_location_3">22.3773312,114.1052725</string>
+    <string name="bus_location_4">22.37426,114.105727</string>
+    <string name="bus">校巴位置</string>
     
 </resources>
