@@ -29,7 +29,7 @@
             android:value="@integer/google_play_services_version" />
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyA5JbP8y-yqDSrauuTz__wMXwWJNcdzFkM" />
+            android:value="{API_KEY" />
 
         <activity
             android:name="edu.cuhk.cmsc.kindergarten.MainActivity"
